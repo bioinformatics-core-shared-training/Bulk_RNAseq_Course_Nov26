@@ -1,6 +1,6 @@
 # Introduction to Bulk RNA-seq data analysis
 ### 17, 24 November and 1 December 2026
-#### Online, Zoom
+#### In-person at the Craik-Marshall Training Room ([map](https://maps.google.co.uk/maps?hl=en-GB&q=Craik-Marshall+Building,+Downing+Site,+Cambridge&source=calendar))
 
 ![](Bulk_RNAseq_Course_Base/images/CRUK_Cambridge_Major_Centre_logo.jpg)
 
